@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://freeaitools2026.github.io/freeaitools/sitemap.xml
